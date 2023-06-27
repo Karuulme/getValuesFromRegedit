@@ -5,6 +5,9 @@
 - anahtar4 -> REG_DWORLD key 0x00004
 -------------------------------------------------------------
 Output :  VALUES :: 1
+
 Output :  VALUES :: 2
+
 Output :  VALUES :: 3
+
 Output :  VALUES :: 4
